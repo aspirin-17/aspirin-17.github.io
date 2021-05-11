@@ -5,8 +5,8 @@
     
     <entry>
       <title>区块链学习日记</title>
-      <link href="2021/05/11/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0/"/>
-      <url>2021/05/11/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0/</url>
+      <link href="/blog/2021/05/11/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0/"/>
+      <url>/blog/2021/05/11/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -18,8 +18,8 @@
     
     <entry>
       <title>Mark down学习笔记</title>
-      <link href="2021/04/20/mark%20down%E5%AD%A6%E4%B9%A0/"/>
-      <url>2021/04/20/mark%20down%E5%AD%A6%E4%B9%A0/</url>
+      <link href="/blog/2021/04/20/mark%20down%E5%AD%A6%E4%B9%A0/"/>
+      <url>/blog/2021/04/20/mark%20down%E5%AD%A6%E4%B9%A0/</url>
       
         <content type="html"><![CDATA[<h1 id="语法学习"><a href="#语法学习" class="headerlink" title="语法学习"></a>语法学习</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><ul><li>这也是三级标题<br>这里是正文</li><li>什么是mark down<br>Markdown是一种「标记语言」，通常为程序员群体所用。除此之外，Markdown也是国际杂志编辑以及许多写作者都广泛使用的标记语言。小源博客的所有文章也都是使用这一语言写成的。</li></ul><h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><p><img src="M:/cover.jpg"></p><h2 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h2><p><a href="https://www.jianshu.com/p/7771794c88a1">Mark down学习网址</a></p>]]></content>
       
